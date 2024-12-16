@@ -1,7 +1,7 @@
 # Chris Behling's Game Development Portfolio (9618137@graniteschoools.org)
 FIrst year game development student interested in 
 learning coding and game design
-No certifications
+No passed certifications
 ## Term 1 Projects
 Shape Game
 First project created and intorudced collision detection in a simple way. 
