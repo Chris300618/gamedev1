@@ -9,3 +9,4 @@ First project created and intorudced collision detection in a simple way.
 Group project (Rusted Ring)
 Rusted Ring is a combat based game where you fight enemies and chooose what amount of attributes you have. I was the artist in that project. 
 Link to GitHub Repo: [https://github.com/dexterchurch/GameDevTeam1](url)
+Image of game running:
