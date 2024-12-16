@@ -5,7 +5,7 @@ No certifications
 ## Term 1 Projects
 Shape Game
 First project created and intorudced collision detection in a simple way. 
-Link to individual repo:
+Link to individual repo:  [https://github.com/Chris300618/Chris300618/blob/main/ShapeGame.pde](url)
 ## Term 2 Projects
 Group project (Rusted Ring)
 Rusted Ring is a combat based game where you fight enemies and chooose what amount of attributes you have. I was the artist in that project. 
